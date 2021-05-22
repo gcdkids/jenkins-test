@@ -20,7 +20,7 @@ pipeline {
         stage('Test') {
             steps {
                 sh '''
-                echo "Hi Johnso Hung"
+                echo "Hi Johnso XD"
                 '''
             }
         }
